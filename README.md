@@ -9,5 +9,5 @@ https://unix.stackexchange.com/questions/28181/run-script-on-screen-lock-unlock
 
 -----
 USAGE:
-Edit the "RunProgram_WhileIdle-linux" so it runs your script, just add the bash command that would run your script in the two places on the file that say "HERE"
+Edit the "RunProgram_WhileIdle-linux" so it runs your script, just add the bash command that would run your script in the two places on the .sh file that say "HERE"
 -----
